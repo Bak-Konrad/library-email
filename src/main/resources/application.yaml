@@ -13,5 +13,3 @@ spring:
         smtp:
           auth: true
           starttls.enable: true
-  kafka:
-    bootstrap-servers: localhost:9092
